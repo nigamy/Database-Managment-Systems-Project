@@ -1,0 +1,7 @@
+'M123','Tortilla','4 boxes'
+'M221','Avocado','12 boxes'
+'M234','Cheese','4 boxes'
+'M237','Tomato','12 boxes'
+'M345','Lettuce','8 boxes'
+'M779','Onion','4 boxes'
+'M804','Cilantro','2 boxes'

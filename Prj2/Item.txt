@@ -1,0 +1,8 @@
+'I10','Nachos','Chicken',8
+'I11','Queso','Pork',6
+'I12','Burrito','Brisket',7
+'I13','Bowl','Steak',8
+'I14','Loaded Tortilla Soup','Fajitas',10
+'I15','Quesdia','Chicken',10
+'I16','Corn Salsa','Fountain Drink',11
+'I17','Pico','Chicken',10
